@@ -1,6 +1,6 @@
 # Sturgeon_genome
 
-Git repository for Acipenser naccarii project at University of Ferrara.
+Git repository for *Acipenser naccarii* project at University of Ferrara.
 
 See below for the paper:
 
